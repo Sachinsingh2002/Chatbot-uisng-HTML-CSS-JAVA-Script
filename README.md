@@ -6,7 +6,7 @@ This is a simple chatbot web application that allows users to interact with an A
 
 ## Preview
 
-
+<img width="1440" alt="Screenshot 2023-06-06 at 11 13 39 AM" src="https://github.com/Sachinsingh2002/Chatbot-uisng-HTML-CSS-JAVA-Script/assets/108183252/ce4a9eb3-b635-46bb-a358-1a8c85105938">
 
 ## Technologies Used
 
