@@ -25,3 +25,7 @@ You can customize the chatbot's appearance by modifying the "style.css" file. Ad
 
 To modify the chatbot's behavior or integrate a different AI language model, you can make changes to the "index.js" file. Follow the documentation of your chosen AI model to ensure proper integration and handle responses accordingly.
 
+# License
+
+This project is licensed under the MIT License.
+
